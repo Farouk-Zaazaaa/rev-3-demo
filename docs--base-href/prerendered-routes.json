@@ -1,0 +1,11 @@
+{
+  "routes": [
+    "/about",
+    "/about/desktop",
+    "/about/ipad",
+    "/about/mobile",
+    "/about/tablet",
+    "/contact",
+    "/home"
+  ]
+}
